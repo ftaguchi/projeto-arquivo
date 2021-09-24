@@ -1,0 +1,117 @@
+* {
+  font-size: .94rem;
+}
+
+.dropdown-item {
+  padding: .10rem 1rem;
+  color: rgb(90, 90, 90)
+}
+
+.dropdown-item i {
+  padding-right: 10px;
+}
+
+.breadcrumb {
+  background-color: #fff;
+}
+
+.input-pesquisa {
+  position: absolute;
+  top: 20px;
+  right: 10px;
+}
+
+.link {
+  color: #666;
+}
+
+.link:hover {
+  color: #000;
+  text-decoration: none;
+}
+
+.btn-outline-success {
+  color: #888;
+  border-color: #888;
+}
+
+.btn-outline-primary {
+  color: #888;
+  border-color: #888;
+}
+
+.btn-outline-danger {
+  color: #888;
+  border-color: #888;
+}
+
+.card-dashboard {
+  width: 18rem;
+  float: none;
+  margin-bottom: 10px;
+  text-align: center;
+  margin-left: 10px
+}
+
+.link-lote:hover {
+  color: #000;
+  text-decoration: none;
+  background-color: #f5f5f5;
+}
+
+em.input-error {
+  color: #d43f3a;
+  font-style: normal;
+  font-weight: normal;
+  position: relative;
+  top: 5px;
+}
+
+.dropdown-menu-sem-borda.show {
+  border: 0px;
+}
+
+/* .tooltip-inner {
+  text-align: left;
+  line-height: 15px;
+} */
+
+.f-18 {
+  font-size: 18px
+}
+
+.f-19 {
+  font-size: 19px
+}
+
+.f-20 {
+  font-size: 20px
+}
+
+.show-tick.bootstrap-select .dropdown-menu .selected span.check-mark {
+  left: 5px;
+}
+
+.backgroundEscuro {
+  opacity: 0.8;
+  filter: alpha(opacity=20);
+  background-color: #000;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+  top: 0;
+  left: 0;
+  position: fixed;
+}
+
+.load {
+  z-index: 11;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -50px;
+  margin-top: -50px;
+  color: white;
+}

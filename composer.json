@@ -1,0 +1,14 @@
+{
+    "name": "leanderson.pereira/app",
+    "authors": [
+        {
+            "name": "Leanderson",
+            "email": "leanderson.pereira@rondonopolis.mt.gov.br"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "^4.6",
+        "components/font-awesome": "^5.15",
+        "snapappointments/bootstrap-select": "^1.13"
+    }
+}
